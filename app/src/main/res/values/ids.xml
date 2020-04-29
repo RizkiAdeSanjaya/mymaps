@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="search_address" type="id" />
+    <item name="location_search" type="id" />
+    <item name="hospitals_nearby" type="id" />
+    <item name="schools_nearby" type="id" />
+    <item name="restaurants_nearby" type="id" />
+</resources>
